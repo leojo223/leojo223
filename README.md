@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @leojo223
-- 👀 I’m interested in lots of things
-- 🌱 I’m currently learning lots of things
-- 📫 How to reach me @twitter -> leojo223
+- 👀 I’m interested in Blockchain, Human Health and Digital Art.
+- 🌱 I’m currently learning Python and the fullstack Web Dev languages.
+- 📫 Socials:
+- twitter -> leojo_
+- Instagram -> @leojo___
+- Tiktok -> leojo___
 
 <!---
 leojo223/leojo223 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
